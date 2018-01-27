@@ -1,0 +1,9 @@
+Building Glancoin
+
+See doc/readme-qt.rst for instructions on building Glancoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Glancoin.
+
+See doc/build-*.txt for instructions on building glancoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Glancoin.
